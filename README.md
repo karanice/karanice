@@ -22,9 +22,9 @@ I belonged to the Department of Radio Physics, and my diploma was about computer
 
 ## Skills
 
-# Hard
+### Hard
   Loading...
-# Soft
+### Soft
   Loading...
 
 ## Interests
@@ -36,7 +36,7 @@ Loading...
 
 You can contact me these ways:
 
--**Telegram** (most preferable): *@graniza_tumana*
--**Gmail**: *to.anathema@gmail.com*
--**LinkedIn**: Loading, you know...
--**Habr**: *@karanice*
+- **Telegram** (most preferable): *@graniza_tumana*
+- **Gmail**: *to.anathema@gmail.com*
+- **LinkedIn**: Loading, you know...
+- **Habr**: *@karanice*
