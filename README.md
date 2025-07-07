@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Anna, I'm a beginner **backend-developer** (Django, Flask). \
+My name is Anna, I'm a beginner **backend-developer** (Django, Flask).
 
 ## Training projects
 
