@@ -39,4 +39,4 @@ You can contact me these ways:
 - **Telegram** (most preferable): *@graniza_tumana*
 - **Gmail**: *to.anathema@gmail.com*
 - **LinkedIn**: Loading, you know...
-- **Habr**: *@karanice*
+- **Habr**: *[@karanice](https://career.habr.com/karanice)*
