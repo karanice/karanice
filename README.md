@@ -13,7 +13,7 @@ I graduated *Hexlet* online programming school, so here's some projects I finish
 
 ## Current projects
 
-I’m currently working on a web-app [*Aneway*](https://github.com/karanice/aneway). It will be an aggregator of local events and organizations (mostly free, Saint-Petersburg only at the start), so people like me (creative, bored... a bit cheapskates) might always find some fascinating way to spend their day off.
+I’m currently working on a web-app [*Aneway*](https://github.com/karanice/aneway). It will be an aggregator of local events and organizations (mostly free, Saint-Petersburg only, at the start), so different people might always find some fascinating way to spend their day off.
 
 ## Graduation
 
